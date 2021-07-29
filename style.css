@@ -8,8 +8,6 @@ html,body{
     margin: 0;
 }
 
-/*linear-gradient(90deg, #8264f6, #66d390); */
-
 .white-keys kbd{
     border: solid gray;
     display: inline-block;
@@ -21,14 +19,12 @@ html,body{
     padding-bottom: 2vh;
     margin: 0;
     float: left;
-
 }
 
 .black-keys kbd{
     border: solid gray;
     display: inline-block;
     width: 4vw;
-
     max-width: 40px;
     background-color: black;
     text-align: center;
@@ -39,16 +35,10 @@ html,body{
     position: relative;
     right: 352px;
    margin-right: 6px;
-
-
-
 }
 
 .container{
     display: flex;
     height: fit-content;
     width: fit-content;
-
-
-
 }
