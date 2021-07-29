@@ -3,8 +3,8 @@ document.addEventListener("keydown", function (event) {
         let audioA = new Audio("A.mp3");
         audioA.play();
     } else if (event.code == "KeyS") {
-            let audioS = new Audio("S.mp3");
-            audioS.play();
+          let audioS = new Audio("S.mp3");
+          audioS.play();
         } else if (event.code == "KeyD") {
             let audioD = new Audio("D.mp3");
             audioD.play();
